@@ -1,2 +1,2 @@
 # countdown-timer
-Simple JS countdown time
+Simple JS countdown timer
